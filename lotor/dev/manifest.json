@@ -1,17 +1,17 @@
 {
   "product": "lotor",
   "channel": "dev",
-  "version": "0.1.0-dev.20260828024100.7f369ef",
-  "published": "2026-08-28T02:42:14Z",
+  "version": "0.1.0-dev.20260828024354.a7e4659",
+  "published": "2026-08-28T02:45:14Z",
   "artifacts": {
     "linux/amd64": {
       "url": "https://github.com/meshrunner-dev/lotor/releases/download/dev/lotor_linux_amd64",
-      "sha256": "ed19236cceeaf4a96fb478f1ac71d3a91da51ce0e7de8002e0222788609df29a",
+      "sha256": "57a92033b056e3aa3664b9433ecc48da808487942f82af0066ddce127beec5f7",
       "size": 14626978
     },
     "linux/arm64": {
       "url": "https://github.com/meshrunner-dev/lotor/releases/download/dev/lotor_linux_arm64",
-      "sha256": "70d8356acaca62f1be4cfeec514435bf5eac2ccb282b95a27ee9f4fa1061d080",
+      "sha256": "6e99969fd3d476a39699f621ddcf0c415edb831a9d66621d91338a974503f5f4",
       "size": 13697186
     }
   }
