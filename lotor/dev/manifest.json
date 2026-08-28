@@ -1,23 +1,32 @@
 {
   "product": "lotor",
   "channel": "dev",
-  "version": "0.1.0-dev.20260828134520.31d763f",
-  "published": "2026-08-28T13:46:43Z",
+  "version": "0.1.0-dev.20260828150455.8648cd7",
+  "published": "2026-08-28T15:17:16Z",
   "artifacts": {
     "linux/amd64": {
-      "url": "https://github.com/meshrunner-dev/lotor/releases/download/dev/lotor_linux_amd64",
-      "sha256": "d54b515c966559ea4da9154406670c5231259796ce7552229b54e675defd8051",
-      "size": 15286434
+      "url": "http://dl-fast.meshrunner.dev/lotor/0.1.0-dev.20260828150455.8648cd7/lotor_0.1.0-dev.20260828150455.8648cd7_linux_amd64.gz",
+      "sha256": "cf8753b6b1feedb72812aaa00baca4bb028132838a1bef6beb89c25f3a4ca6a7",
+      "size": 6419460,
+      "compression": "gzip",
+      "binary_sha256": "57e0f083d5032c40d2377fa8fa0fd9182c9c657abda145beb4d4b4eabf6ed7c3",
+      "binary_size": 15298722
     },
     "linux/arm": {
-      "url": "https://github.com/meshrunner-dev/lotor/releases/download/dev/lotor_linux_arm",
-      "sha256": "0f937f9d5ea2a8e02cb1efd6d8d78f3f57b93d38c216631b8daa8ecf3fada450",
-      "size": 14680226
+      "url": "http://dl-fast.meshrunner.dev/lotor/0.1.0-dev.20260828150455.8648cd7/lotor_0.1.0-dev.20260828150455.8648cd7_linux_arm.gz",
+      "sha256": "398a26da0fb2ff71a970b444c74620c01d8b67813a7b325df027963a6185beae",
+      "size": 6117972,
+      "compression": "gzip",
+      "binary_sha256": "1c0d10f3a189abafbed338c7dd1fb3cb05882a2776a51c35e8efad0da8044430",
+      "binary_size": 14680226
     },
     "linux/arm64": {
-      "url": "https://github.com/meshrunner-dev/lotor/releases/download/dev/lotor_linux_arm64",
-      "sha256": "8c7bc914e3bd9218f46e62d084b60548daea44e83bd8c25e84fe34604dc5b050",
-      "size": 14352546
+      "url": "http://dl-fast.meshrunner.dev/lotor/0.1.0-dev.20260828150455.8648cd7/lotor_0.1.0-dev.20260828150455.8648cd7_linux_arm64.gz",
+      "sha256": "c1eff66c30c3aaee1ae120b9edebab45a12e59ca410d0ee36ebe237f2ea1318d",
+      "size": 5963201,
+      "compression": "gzip",
+      "binary_sha256": "7f5d2d885d14ae02df051db0e0edd26395cdaf0bb66ab92d4b9d9916949b2373",
+      "binary_size": 14352546
     }
   }
 }
