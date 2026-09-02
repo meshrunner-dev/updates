@@ -1,31 +1,31 @@
 {
   "product": "lotor",
   "channel": "dev",
-  "version": "0.0.0-dev.20260831220648.fed7eb0665ce",
-  "published": "2026-08-31T22:08:05Z",
+  "version": "0.0.0-dev.20260902001707.5124a2e4deea",
+  "published": "2026-09-02T00:18:38Z",
   "artifacts": {
     "linux/amd64": {
-      "url": "http://dl-fast.meshrunner.dev/lotor/0.0.0-dev.20260831220648.fed7eb0665ce/lotor_0.0.0-dev.20260831220648.fed7eb0665ce_linux_amd64.gz",
-      "sha256": "9137aba95a3158b933d36c01da5a45ce5be92a8cf7bcc651ac1fe9339813cd05",
-      "size": 7351755,
+      "url": "http://dl-fast.meshrunner.dev/lotor/0.0.0-dev.20260902001707.5124a2e4deea/lotor_0.0.0-dev.20260902001707.5124a2e4deea_linux_amd64.gz",
+      "sha256": "9b948e4e568550c89babb97e6e4afbda554dcc06381bffb08b9bd6adb593be0f",
+      "size": 7351522,
       "compression": "gzip",
-      "binary_sha256": "cfcfc16fe24cfee5c7af526e494021066a43746608e18988099d45f35a1a506f",
+      "binary_sha256": "566db415f807c4ab581b2a353c715cf1c886d06e4cfd35309ba042fb674a809e",
       "binary_size": 17662114
     },
     "linux/arm": {
-      "url": "http://dl-fast.meshrunner.dev/lotor/0.0.0-dev.20260831220648.fed7eb0665ce/lotor_0.0.0-dev.20260831220648.fed7eb0665ce_linux_arm.gz",
-      "sha256": "7ddacec728609de1ef03023c7a43e55c9c55d5a7c1fe6ca7fdd90bd365bc49a9",
-      "size": 6996818,
+      "url": "http://dl-fast.meshrunner.dev/lotor/0.0.0-dev.20260902001707.5124a2e4deea/lotor_0.0.0-dev.20260902001707.5124a2e4deea_linux_arm.gz",
+      "sha256": "e3f094b9e6a0e3c20f43191b21a833d279e293f9ee66eb552eaa0adc09c2be77",
+      "size": 6996519,
       "compression": "gzip",
-      "binary_sha256": "303ade753144fe48b4d664e55decde0b114dd8351d842585381438d08b42e7cc",
+      "binary_sha256": "11b2ef65297ded254bb3a1c58a3386a031f68aac65df5d75e439b8e4d9d37194",
       "binary_size": 16842914
     },
     "linux/arm64": {
-      "url": "http://dl-fast.meshrunner.dev/lotor/0.0.0-dev.20260831220648.fed7eb0665ce/lotor_0.0.0-dev.20260831220648.fed7eb0665ce_linux_arm64.gz",
-      "sha256": "66cb3f52a7244db4ea5715f4fd4672ca8dde90a2688e9381b0ca4b34efb33f93",
-      "size": 6816417,
+      "url": "http://dl-fast.meshrunner.dev/lotor/0.0.0-dev.20260902001707.5124a2e4deea/lotor_0.0.0-dev.20260902001707.5124a2e4deea_linux_arm64.gz",
+      "sha256": "ab4d7b075a0cb6397f79ace7e124d83cbb6c6508ac8026036dffc4c9e51d45e9",
+      "size": 6816050,
       "compression": "gzip",
-      "binary_sha256": "e4d2f8edd5cc140a801bf79644af1452afd283a2a6d79c58532881a5bff73586",
+      "binary_sha256": "76eb811da0bf5156b66ba7ead64a2f3960b332c9cec925e6596a92eaa88ba4fa",
       "binary_size": 16515234
     }
   }
