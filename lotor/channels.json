@@ -1,6 +1,7 @@
 {
   "product": "lotor",
   "channels": [
-    "dev"
+    "dev",
+    "try-branch-feat-room-server"
   ]
 }
